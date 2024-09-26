@@ -1,1 +1,8 @@
+Desenvolvido por Leticia Verdelho Ribeiro - Data: 26/09/2024
 
+Sistema Desenvolvido em Java para realizar um teste de Ansiedade, o programa pede ao usuário para responder 10 perguntas com sim ou não.
+Apois responder as perguntas o programa vai retornar ao usuário se ele tem:
+
+Respondeu sim para  7 perguntas ou mais o programa retorna - Você tem fortes indicios de Ansiedade, Faça Terapia!
+Respondeu sim para 5 ou 6 perguntas o programa retorna- Você precisa cuidar do corpo e da mente, Precure Orientação Medica!
+Respondeu sim para menos de 5 perguntas o programa retorna- Você está aparentemente bem e sem risco de Ansiedade!
